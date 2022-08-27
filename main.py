@@ -216,8 +216,11 @@ if __name__ == "__main__":
     # 接收的用户
     users = config["user"]
     # 传入省份和市获取天气信息
-    province, city = config["province"], config["city"]
-    weather, max_temperature, min_temperature = get_weather(province, city)
+    province1, city1 = config["province1"], config["city1"]
+    weather1, max_temperature1, min_temperature1 = get_weather(province1, city1)
+    province2, city2 = config["province2"], config["city2"]
+    weather2, max_temperature2, min_temperature2 = get_weather(province2, city2)
+    
     # 获取词霸每日金句
     note_ch, note_en = get_ciba()
     # 公众号推送消息
