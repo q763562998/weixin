@@ -1,13 +1,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx52e589a9bce64645",
+"app_id": "wx589a9xxxxxbce64645",
 # 公众号appSecret
-"app_secret": "5d72f79e4fdf9ed20432a056702df192",
+"app_secret": "5d72f79e4fdf90567xxxxxxxx02df192",
 # 模板消息id
-"template_id": "45nWEivClgW7ysENXBYeblwAnLr1T64xTPqJ51etXuM",
+"template_id": "45nWEivClgWBYeblwAnLr1T64xxxxxxxTPqJ51etXuM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oRQAU54wzifp","oRQAU53UfC"],
+"user": ["oR54xxxxxxwzifp","oUxxxxxxx53UfC"],
 
 # 信息配置
 # 所在省份
@@ -18,9 +18,9 @@
 # 所在城市
 "city2": "杭州",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "1测试宝宝", "birthday": "r2000-06-01"},
+"birthday1": {"name": "ABC", "birthday": "r2000-06-01"},
 # 生日2
-"birthday2": {"name": "2测试宝贝", "birthday": "r1999-08-18"},
+"birthday2": {"name": "DEF", "birthday": "r1999-08-18"},
 # 在一起的日子，格式同上
-"love_date": "2021-11-20"
+"love_date": "2021-xx-xx"
 }
